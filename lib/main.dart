@@ -82,7 +82,7 @@ class HomeScreen extends StatelessWidget {
       body: Column(
         children: [
           Container(
-            height: 24,
+            height: 30,
             decoration: BoxDecoration(
               gradient: LinearGradient(
                 colors: [themeData.colorScheme.secondary, themeData.colorScheme.primary],
