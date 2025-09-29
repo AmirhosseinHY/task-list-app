@@ -39,4 +39,4 @@ for Flutter and Dart.
 
 1. Clone the repository or download the project files:
    ```bash
-   git clone https://github.com/AmirhosseinHY/task-list-app.git
+   git clone https://github.com/AmirhosseinHY/task-list-app
